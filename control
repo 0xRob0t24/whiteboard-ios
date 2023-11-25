@@ -1,0 +1,9 @@
+Package: robot24
+Name: Whiteboard
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: กระดาน whiteboard วาดเขียน
+Maintainer: robot24
+Author: robot24
+Section: Utilities
+Depends: firmware (>= 12.2) | ${LIBSWIFT}
